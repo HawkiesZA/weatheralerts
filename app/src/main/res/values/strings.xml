@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather Alerts</string>
+    <string name="no_weather_events_found">No weather events found</string>
+    <string name="something_went_wrong">Something went wrong. Try closing and reopening the app.</string>
+    <string name="picsum_image">A random image from picsum</string>
+    <string name="days_hours_minutes">%1$s days, %2$s hours, %3$s minutes</string>
+</resources>
